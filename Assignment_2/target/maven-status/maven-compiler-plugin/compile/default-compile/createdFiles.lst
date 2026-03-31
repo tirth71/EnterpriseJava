@@ -1,0 +1,15 @@
+com/mycompany/assignment2/util/DBUtil.class
+ForgotPasswordServlet.class
+com/mycompany/assignment2/resources/JakartaEE10Resource.class
+ProductServlet.class
+LoginServlet.class
+com/mycompany/assignment2/util/EmailUtil$1.class
+RegisterServlet.class
+com/mycompany/assignment2/listener/SessionListener.class
+com/mycompany/assignment2/JakartaRestConfiguration.class
+com/mycompany/assignment2/filter/AuthFilter.class
+CartServlet.class
+ProfileServlet.class
+ResetPasswordServlet.class
+com/mycompany/assignment2/util/EmailUtil.class
+CategoryServlet.class
